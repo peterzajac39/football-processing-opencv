@@ -16,3 +16,8 @@ Implementation was done in Python scripts.
 
 ## Documentation
 Document and presentation about this project found in folder **documentation**.
+
+## Showcase
+Video of player's tracking: https://www.youtube.com/watch?v=kh6oaD22zv8.
+
+Video of players segmentation: https://www.youtube.com/watch?v=rWVesKNeH6U.
